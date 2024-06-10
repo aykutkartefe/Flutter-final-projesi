@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Tiffany & Co.",
+    "type": "Necklace",
+    "price": 500.0
+  },
+  {
+    "brand": "Cartier",
+    "type": "Ring",
+    "price": 750.0
+  },
+  {
+    "brand": "Swarovski",
+    "type": "Earrings",
+    "price": 150.0
+  },
+  {
+    "brand": "Bvlgari",
+    "type": "Bracelet",
+    "price": 800.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+    "home": {
+        "title": "Home",
+        "pick_image": "Choose an image"
+    },
+    "jewelery": {
+        "title": "Jewelery"
+    },
+    "products": {
+        "title": "Products",
+        "jewelery":"Jewelery"
+    },
+    "onboarding": {
+        "title": "Welcome"
+    }
+   
+}

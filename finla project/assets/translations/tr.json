@@ -1,0 +1,17 @@
+{
+    "home": {
+        "title": "Ana Sayfa",
+        "pick_image": "Resim Seç"
+    },
+    "jewelery": {
+        "title": "Mücevherat"
+    },
+    "products": {
+        "title": "Ürünler",
+        "jewelery":"Mücevherat"
+
+    },
+    "onboarding": {
+        "title": "Hoşgeldiniz"
+    }
+}
